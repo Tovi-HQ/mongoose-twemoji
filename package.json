@@ -1,0 +1,23 @@
+{
+  "name": "mongoose-twemoji",
+  "version": "1.0.0",
+  "description": "Implement twemoji type to a document",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tovi-HQ/mongoose-twemoji.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tovi-HQ/mongoose-twemoji/issues"
+  },
+  "homepage": "https://github.com/Tovi-HQ/mongoose-twemoji#readme",
+  "dependencies": {
+    "mongoose": "^6.1.0"
+  }
+}
